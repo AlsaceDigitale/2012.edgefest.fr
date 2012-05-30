@@ -84,3 +84,9 @@ a.address, a.address:hover {
   color: black;
   text-decoration: underline;
 }
+
+p.subscribe {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
