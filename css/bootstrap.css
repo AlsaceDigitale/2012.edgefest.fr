@@ -4958,3 +4958,38 @@ a.badge:hover {
 .invisible {
   visibility: hidden;
 }
+
+/* Extra added by YK */
+
+body {
+  background-color: #7feb1b;
+  color: white;
+}
+p {
+  text-align:justify;
+  padding-top: 20px;
+}
+
+li {
+  text-align:justify;
+  padding-top: 10px;
+}
+
+h2.subtitle {
+  font-size: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+h1 {
+  font: 35px/43px 'TitilliumText22LRegular', Arial, sans-serif;letter-spacing: 0;
+}
+
+h2 {
+  font: 24px/36px 'TitilliumText22LMedium', Arial, sans-serif;
+}
+
+p, ul, li {
+  font: 18px/20px 'TitilliumText22LLight', Arial, sans-serif;
+}
+
